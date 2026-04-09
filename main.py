@@ -8,7 +8,7 @@ from datetime import datetime
 PICK_READY = [122.85, 166.33, 21.06]
 PICK_DOWN = [122.9, 170.8, -53.54]
 PICK_HIGH = [274.79, 3.94, 109.11]
-DROP_POS = [319.46, 16.25, -66.8]
+DROP_POS = [267.49, 7.17, 30.41]
 HOME_POS = [250.0, 0.0, 50.0]
 
 
